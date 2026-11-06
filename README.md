@@ -1,4 +1,4 @@
-# Delay Intelligence: last-mile delivery capstone
+# Delay Intelligence: last-mile delhivery capstone
 
 Predicts delivery hours, flags parcels likely to miss their promised window, segments the 24 hubs by how they really
 operate, and turns the 48 parcels about to be dispatched into an action list. Money is in Indian Rupees (INR).
